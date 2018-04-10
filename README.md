@@ -3,5 +3,5 @@ rs-task-code-jam1
 
 # tests
 run:
-  npm install
-  npm test
+  1) npm install
+  2) npm test
